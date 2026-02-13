@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="close">close</string>
+    <string name="open">open</string>
+
+    <string name="movies_movie_nav_menu">Movies</string>
+    <string name="series_movie_nav_menu">Series</string>
+    <string name="options_movie_nav_menu">Options</string>
+
+    <string name="popular_movie_nav_menu">Popular</string>
+    <string name="playing_movie_nav_menu">Now Playing</string>
+    <string name="upcoming_movie_nav_menu">Upcoming</string>
+    <string name="rated_movie_nav_menu">Top Rated</string>
+
+    <string name="about_options_movie_nav_menu">About</string>
+    <string name="settings_options_movie_nav_menu">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="api_key">c58d486e39335c088f93249c7d26df58</string>
+</resources>
