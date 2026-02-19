@@ -27,7 +27,18 @@
 - Agregar sección de series.
 - Agregar menus de configuracion de la app (color de fondo, idioma, horario, region).
 
-## 📷 Capturas de pantalla
+## 📱 Screenshots
+<p align="center">
+  <img src="app/src/main/res/drawable/img.png" width="250"/>
+  <img src="app/src/main/res/drawable/img_1.png" width="250"/>
+</p>
+
+## 🎥 Demo
+<p align="center">
+  <a href="https://youtu.be/demo">
+    <img src="images/video-preview.png" width="400"/>
+  </a>
+</p>
 
 ## 👤 Autor
 Adrián Hernández López / 
